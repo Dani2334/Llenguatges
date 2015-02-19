@@ -1,2 +1,1 @@
-<% String s = "Hola, Eclipse!"; %>
-<%= s %>
+<% String s = "Hola, Eclipseggg
