@@ -1,1 +1,1 @@
-System.out.print(“Hola, Eclipse!”);
+System.out.print(“Hola, Eclipse Subversion!”);
