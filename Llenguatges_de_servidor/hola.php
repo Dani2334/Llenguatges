@@ -1,3 +1,3 @@
 <?php
-echo"Hola, Eclipse captura!";
+echo"Hola, Eclipse!";
 ?>
